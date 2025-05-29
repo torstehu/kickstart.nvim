@@ -676,6 +676,7 @@ require('lazy').setup({
         pyright = {},
         ts_ls = {},
         htmx = {},
+        terraformls = {},
 
         lua_ls = {
           settings = {
